@@ -3,7 +3,6 @@
 
 #include <stdio.h>
 #include <math.h>
-#include <Windows.h>
 
 #include <cuda.h>
 #include "cuda_runtime.h"

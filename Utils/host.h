@@ -1,7 +1,6 @@
 #ifndef HOST_UTILS_H
 #define HOST_UTILS_H
 
-#include <windows.h>
 #include <string>
 
 void startStopwatch(LARGE_INTEGER* start);

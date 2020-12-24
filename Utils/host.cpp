@@ -2,7 +2,6 @@
 #include <stdint.h>
 #include <string.h>
 #include <random>
-#include <Windows.h>
 
 #include <cuda.h>
 #include "cuda_runtime.h"
